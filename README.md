@@ -2,8 +2,6 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>My First Website </title>
-<script src="https://kit.fontawesome.com/a84c902a14.js" crossorigin="anonymous"></script>
 </head>
 <body>
 <h1 Class = "font-google"> FOOD FOOD FOOD </h1>
@@ -11,7 +9,7 @@
 <a href="https://www.youtube.com/channel/UCu1x4ZdRegx8imkrCuVtg5g/videos">one</a>
 <a href="https://www.reddit.com/user/Outrageous-Ad-9399">two</a>
 <a href="https://www.allrecipes.com/recipes/80/main-dish/">three</a>
-<p> My facebook: <a href="https://www.facebook.com/profile.php?id=100010928836588"><i Class = " fab fa-facebook fa-2x" Style ="color:blue"></i></a></p1>
+<a href="https://www.facebook.com/profile.php?id=100010928836588">My Facebook</a>
 </nav>
 <section>
 <h2> Favorite Food </h2>
@@ -34,7 +32,7 @@
 </details>
 </section>
 <footer>
-<img src="C:\Users\Admin\Desktop\xx.png" alt ="WD4E"  width="200" height="150"<p> This page was created by Thanh Tung & Colleen van Lent. To learn more about web design, visit <a href="http://intro-webdesign.com/">Intro to Web Design</a></p>
+<img src="http://www.intro-webdesign.com/images/newlogo.png" alt ="WD4E"  width="200" height="150"<p> This page was created by Thanh Tung & Colleen van Lent. To learn more about web design, visit <a href="http://intro-webdesign.com/">Intro to Web Design</a></p>
 </footer>
 </body>
 </html>
